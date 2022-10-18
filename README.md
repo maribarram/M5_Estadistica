@@ -1,1 +1,2 @@
 # M5_Estadistica
+En este repositorio se encuentra disponibles las practicas del Modulo 5. Estadistica avanzada para la ciencia de datos de la Materia Inteligencia artificial avanzada para la ciencia de datos II
